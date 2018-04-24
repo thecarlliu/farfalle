@@ -11,11 +11,11 @@ mongoose.connect(
 
 const endorsementSeed = [
     {
-        id: 1,
-        key: 1,
-        text: "Test",
-        user: "Admin",
-        date: "Today"
+        text: "",
+        name: "",
+        email: "",
+        role: "",
+        phone: "",
     }
 ];
 
